@@ -1,0 +1,3 @@
+npx create-next-app@latest finbuddy
+cd finbuddy
+npm install firebase next-auth @mui/material @emotion/react @emotion/styled
