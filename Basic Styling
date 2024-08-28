@@ -1,0 +1,24 @@
+/* styles/globals.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+div {
+  margin: 20px;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
